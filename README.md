@@ -1,5 +1,3 @@
 # voting-dapp
 
-Update coming soon...
-1
-/.//
+Update coming soon.
