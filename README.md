@@ -13,5 +13,3 @@ Update coming soon..
 /
 /
 /
-/
-
