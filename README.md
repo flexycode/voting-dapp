@@ -1,4 +1,4 @@
 # voting-dapp
 
-Update coming soon....
+Update coming soon.
 .
